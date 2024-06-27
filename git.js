@@ -14,3 +14,5 @@ while ( c < result) {
 // git init used for initialization to directory to use git fitur
 // git add  used to add the file into stagging area, step before the repository
 // git commit used to send the file into repositor
+//testg
+//test 2
